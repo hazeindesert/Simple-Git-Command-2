@@ -14,3 +14,7 @@
 
 ## Git Branch
 `git branch` is used to see list of available branch on local repository
+
+## Git Remote
+To change remote to SSH
+`git remote set-url origin git@github.com:hazeindesert/Simple-Git-Command-2.git`
