@@ -1,1 +1,1 @@
-# Simple-Git-Command-2
+# Simple-Git-Command-2 new lesson
